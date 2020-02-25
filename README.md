@@ -1,2 +1,4 @@
 # hello-world
-First try 
+
+This my first try on GitHub. I hope in the future I will become a specialist.
+
